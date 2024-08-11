@@ -1,0 +1,54 @@
+table.hand {
+	border: none;
+    width: 20%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table.hand tr {
+	border: none;
+}
+
+table.hand td {
+	border: none;
+	width: 125px;
+}
+
+table.auction {
+	border: none;
+	text-align: center;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table.auction th {
+    border: none;
+    text-align: center;
+    width: 100px;
+}
+
+table.auction tr {
+	border: none;
+}
+
+table.auction td {
+	border: none;
+	width: 100px;
+}
+
+table.deal {
+	border: none;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table.deal tr {
+	border: none;
+}
+
+table.deal td {
+	border: none;
+	width: 125px;
+}

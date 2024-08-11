@@ -1,0 +1,7 @@
+table.calendar {
+	text-align: center;
+}
+
+table.calendar td {
+	width: 12.5%;
+}
