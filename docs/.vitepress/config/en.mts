@@ -21,7 +21,7 @@ export const en = defineConfig({
     sidebar: {
       '/en/learning': [
         {
-          text: 'Calendar',
+          text: 'Learning Mode',
           items: [
             {
               text: '2024',
@@ -36,7 +36,7 @@ export const en = defineConfig({
 
       '/en/practice': [
         {
-          text: 'Calendar',
+          text: 'Practice Mode',
           items: [
             {
               text: '2024',
