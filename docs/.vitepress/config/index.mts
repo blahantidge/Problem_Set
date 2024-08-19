@@ -6,6 +6,7 @@ import { zh } from './zh.mts'
 export default defineConfig({
   title: "Bridge Problem Set",
   description: "Audrey Grant's Daily Bridge Column",
+  head: [['link', { rel: 'icon', href: '/logo.svg' }]],
 
   locales: {
     en: { label: 'English', ...en },
