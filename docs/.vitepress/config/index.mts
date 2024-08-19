@@ -13,7 +13,7 @@ export default defineConfig({
   },
   
   themeConfig: {
-    logo: '/icon/logo.svg',
+    logo: '/logo.svg',
     
     search: {
       provider: 'local',
