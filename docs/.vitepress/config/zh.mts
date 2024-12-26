@@ -28,7 +28,8 @@ export const zh = defineConfig({
               collapsed: true,
               items: [
                 { text: '8月', link: '/zh/learning/calendar/202408' },
-                { text: '9月', link: '/zh/learning/calendar/202409' }
+                { text: '9月', link: '/zh/learning/calendar/202409' },
+                { text: '10月', link: '/zh/learning/calendar/202410' }
               ]
             }
           ]
@@ -44,7 +45,8 @@ export const zh = defineConfig({
               collapsed: true,
               items: [
                 { text: '8月', link: '/zh/practice/calendar/202408' },
-                { text: '9月', link: '/zh/practice/calendar/202409' }
+                { text: '9月', link: '/zh/practice/calendar/202409' },
+                { text: '10月', link: '/zh/practice/calendar/202410' }
               ]
             }
           ]

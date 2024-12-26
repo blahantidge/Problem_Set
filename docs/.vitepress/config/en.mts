@@ -28,7 +28,8 @@ export const en = defineConfig({
               collapsed: true,
               items: [
                 { text: 'August', link: '/en/learning/calendar/202408' },
-                { text: 'September', link: '/en/learning/calendar/202409' }
+                { text: 'September', link: '/en/learning/calendar/202409' },
+                { text: 'October', link: '/en/learning/calendar/202410' }
               ]
             }
           ]
@@ -44,7 +45,8 @@ export const en = defineConfig({
               collapsed: true,
               items: [
                 { text: 'August', link: '/en/practice/calendar/202408' },
-                { text: 'September', link: '/en/practice/calendar/202409' }
+                { text: 'September', link: '/en/practice/calendar/202409' },
+                { text: 'October', link: '/en/practice/calendar/202410' }
               ]
             }
           ]
