@@ -38,7 +38,8 @@ export const en = defineConfig({
               text: '2025',
               collapsed: true,
               items: [
-                { text: 'January', link: '/en/learning/calendar/2025/01' }
+                { text: 'January', link: '/en/learning/calendar/2025/01' },
+                { text: 'February', link: '/en/learning/calendar/2025/02' }
               ]
             }
           ]
@@ -64,7 +65,8 @@ export const en = defineConfig({
               text: '2025',
               collapsed: true,
               items: [
-                { text: 'January', link: '/en/practice/calendar/2025/01' }
+                { text: 'January', link: '/en/practice/calendar/2025/01' },
+                { text: 'February', link: '/en/practice/calendar/2025/02' }
               ]
             }
           ]
